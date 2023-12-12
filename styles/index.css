@@ -1,0 +1,28 @@
+* {
+    background-color: #282a36;
+    color: white;
+}
+
+h1 {
+    color: rgb(235, 133, 39);
+    font-weight: 1000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#img1 {
+    width: auto;
+    height: 158px;
+}
+
+.sqrimg {
+    width: auto;
+    height: 158px;
+}
+
+
+li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color: red;
+}
